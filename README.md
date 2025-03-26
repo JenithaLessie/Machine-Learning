@@ -1,6 +1,6 @@
 Project Overview
 
-The client, a grocery retailer, hired a market research consultancy to append market level customer loyalty information to the database. However, only around 50% of the client's customer base could be tagged, thus the other half did not have this information present.
+Our client, a grocery retailer, hired a market research consultancy to append market level customer loyalty information to the database. However, only around 50% of the client's customer base could be tagged, thus the other half did not have this information present.
 
 The overall aim of this work is to accurately predict the loyalty score for those customers who could not be tagged, enabling the client a clear understanding of true customer loyalty, regardless of total spend volume - and allowing for more accurate and relevant customer tracking, targeting, and comms.
 
@@ -12,8 +12,8 @@ Firstly, I needed to compile the necessary data from tables in the database, gat
 
 As I am predicting a numeric output, I tested three regression modelling approaches, namely:
 
-Linear Regression
-Decision Tree
+Linear Regression, 
+Decision Tree, 
 Random Forest
 
 
