@@ -6,6 +6,7 @@ The overall aim of this work is to accurately predict the loyalty score for thos
 
 To achieve this, I looked to build out a predictive model that will find relationships between customer metrics and loyalty score for those customers who were tagged, and use this to predict the loyalty score metric for those who were not.
 
+![image](https://github.com/user-attachments/assets/d7f71caa-3294-45f2-8462-2d19387b8b14)
 
 Actions
 Firstly, I needed to compile the necessary data from tables in the database, gathering key customer metrics that may help predict loyalty score, appending on the dependent variable, and separating out those who did and did not have this dependent variable present.
