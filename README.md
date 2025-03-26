@@ -22,14 +22,16 @@ Testing found that the Random Forest had the highest predictive accuracy.
 
 
 **Metric 1: Adjusted R-Squared (Test Set)**
-Random Forest = 0.955
-Decision Tree = 0.886
+Random Forest = 0.955, 
+Decision Tree = 0.886, 
 Linear Regression = 0.754
 
 **Metric 2: R-Squared (K-Fold Cross Validation, k = 4)**
-Random Forest = 0.925
-Decision Tree = 0.871
+Random Forest = 0.925, 
+Decision Tree = 0.871, 
 Linear Regression = 0.853
+
+
 As the most important outcome for this project was predictive accuracy, rather than explicitly understanding weighted drivers of prediction, I chose the Random Forest as the model to use for making predictions on the customers who were missing the loyalty score metric.
 
 
